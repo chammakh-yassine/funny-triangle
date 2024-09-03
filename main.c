@@ -15,18 +15,5 @@ int main()
         }
     printf("\n");
     }
-    /*int a,i,j;
-    char e;
-    e='-';
-    printf("entrer un nombre");
-    scanf("%d",&a);
-    printf("x*y i");
-    for(i=0;i<a;i++){
-        printf("%4d",i);
-    }
-    printf("\n-----");
-    for(j=0;j<a;j++){
-        putchar("a");
-    }*/
     return 0;
 }
